@@ -2,15 +2,15 @@
 """
 Created on Sat Dec 21 21:35:53 2019
 
-@author: LeGrand
+@author: LeGrand83
 """
 
-###########################################################################
-#                                                                         #
-# a simple programme for creating my LinkedIn background image            #
-# concept: visualise an exponential growth path with a stochastic element #
-#                                                                         #
-###########################################################################
+################################################################################
+#                                                                              #
+# a simple programme for creating my LinkedIn background image                 #
+# concept: visualise an exponential growth path featuring a stochastic element #
+#                                                                              #
+################################################################################
 
 # import of the libraries
 import numpy as np
